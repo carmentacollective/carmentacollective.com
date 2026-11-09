@@ -1,11 +1,7 @@
-# Carmenta Collective
+# carmentacollective.com
 
-Welcome to the official website for the Carmenta Collective.
+Static site for The Carmenta Collective, LLC, hosted on GitHub Pages (custom domain in `CNAME`).
 
-This site is statically hosted on GitHub Pages.
-
-[Visit the live site](https://carmentacollective.com)
-
----
-
-Curious. Passionate. Engaged.
+- `index.html` is self-contained (inline CSS/JS, Google Fonts).
+- Logo/brand kit source: Dropbox `Carmenta Logos/2026-11 Infinity Kit/`.
+- Design history and content decisions: Cora's project notes (`carmenta-collective-site/`).

@@ -1,0 +1,12 @@
+# Carmenta Collective
+
+> Carmenta Collective, LLC is Nick Sullivan's technology company in Austin, Texas, building the healthy intersection of humanity and technology. Several people send email from @carmentacollective.com addresses; for anything, write ohai@carmentacollective.com.
+
+## What we build
+- [Autonomous trading systems](https://cryptoai.dev)
+- [A personal AI chief of staff](https://100xmylife.ai)
+- [Heart-centered AI](https://heartcentered.ai)
+- [Open tools and AI skills](https://technick.ai/ai-skills)
+
+## People
+- [Nick Sullivan](https://technick.ai), founder
