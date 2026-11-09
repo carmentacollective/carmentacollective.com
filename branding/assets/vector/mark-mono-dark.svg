@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+
+
+<defs>
+<mask id="favicon-infinity-under-top" maskUnits="userSpaceOnUse" x="0" y="0" width="200" height="200"><rect width="200" height="200" fill="white"/><circle cx="100" cy="58.4308" r="12" fill="black"/></mask>
+<mask id="favicon-infinity-under-bottom" maskUnits="userSpaceOnUse" x="0" y="0" width="200" height="200"><rect width="200" height="200" fill="white"/><circle cx="100" cy="141.5692" r="12" fill="black"/></mask>
+</defs>
+<path d="M 111.6710 132.1183 A 48 48 0 1 1 111.6710 67.8817" fill="none" stroke="#170B12" stroke-width="15" stroke-linecap="round" mask="url(#favicon-infinity-under-top)"/>
+<path d="M 88.3290 67.8817 A 48 48 0 1 1 88.3290 132.1183" fill="none" stroke="#170B12" stroke-width="15" stroke-linecap="round" mask="url(#favicon-infinity-under-bottom)"/>
+</svg>
